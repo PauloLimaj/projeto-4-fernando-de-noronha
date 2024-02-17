@@ -1,0 +1,23 @@
+h1 {
+  color: white;
+  background-color: green;
+  border: 5px solid darkgreen;
+  border-radius: 15px;
+  width: 60%
+}
+img {
+  border: 5px solid black;
+  border-style: double;
+  border-radius: 5px;
+  width: 60%;
+}
+h3 {
+  border: 10px solid #b8860b;
+  border-radius: 15px;
+  background-color: gold;
+  width: 60%;
+}
+h2{
+  color: blue;
+  text-decoration: underline;
+}
